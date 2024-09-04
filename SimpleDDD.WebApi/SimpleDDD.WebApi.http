@@ -1,0 +1,6 @@
+@SimpleDDD.WebApi_HostAddress = http://localhost:5194
+
+GET {{SimpleDDD.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
